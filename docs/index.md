@@ -13,5 +13,5 @@
 - Random Dungeon like structures
 - Crafting
 - Multiplayer
-- -Magic
+- Magic
 - End Goal
